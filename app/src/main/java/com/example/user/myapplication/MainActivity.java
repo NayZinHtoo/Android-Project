@@ -10,6 +10,8 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
+//Git test phyothiha win
+
     EditText ed_name,tt,ff;
     Button btnAc;
     String name = "";
